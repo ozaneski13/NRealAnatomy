@@ -1,0 +1,239 @@
+{
+    "m_SelectedDeviceId": "52c24425",
+    "m_SelectedPackage": {
+        "deviceId": "192.168.1.17:5555",
+        "name": "com.DefaultCompany.NRTestW",
+        "processId": 23751,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "52c24425",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 6557,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 3920,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 6114,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 18682,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 2873,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 5252,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.5:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 7848,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 12885,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 15053,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 17212,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 19466,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 21298,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.2:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 3556,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.android.settings",
+            "processId": 5056,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 17712,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 19937,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 22023,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "ai.nreal.nebula",
+            "processId": 23954,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 24172,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.12:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 26856,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.16:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 6010,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.16:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 8178,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.16:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 10287,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 5846,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 7976,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 10105,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 15021,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 21608,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.17:5555",
+            "name": "com.DefaultCompany.NRTestW",
+            "processId": 23751,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
